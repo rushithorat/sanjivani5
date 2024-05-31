@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+.count{
+    
+    height: 20vw;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.co{
+  
+    height: 10vw;
+    width: 14%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+line-height: 3.5vw;
+    justify-content: center;
+
+    
+}
+.count1{
+    margin-left: 10%;
+}
+.count5
+{
+    margin-right: 10%;
+}
+.co h1{
+    color: goldenrod;
+    font-size: 4vw;
+    font: oblique;
+}
+.co p{
+    font-size: 1.5vw;
+   
+}
